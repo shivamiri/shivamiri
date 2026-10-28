@@ -1,0 +1,13 @@
+PHP, HTML, Kotlin, React, Next.js: Simple Icons CC0 collection. Brand trademarks remain their owners.
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kotlin.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg
+
+Java: official Duke mascot Hips artwork from OpenJDK. Resized with original colors and proportions.
+Gallery: https://wiki.openjdk.org/spaces/duke/pages/51282071/Gallery
+Image: https://cr.openjdk.org/~jeff/Duke/png/Hips.png
+Licensing: https://wiki.openjdk.org/spaces/duke/overview
+Oracle guidance: https://www.oracle.com/a/ocom/docs/java-licensing-logo-guidelines-1908204.pdf
+Duke is under the New BSD license. OpenJDK notes that merely including Duke images on a website does not require displaying the BSD license text.

@@ -1,0 +1,3 @@
+Simple Icons (CC0 collection, brand trademarks retained):
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg
+https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg
